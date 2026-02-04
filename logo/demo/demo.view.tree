@@ -1,6 +1,6 @@
-$company_template_logo_demo $mol_example_small
+$learn_testapp_logo_demo $mol_example_small
 	sub /
-		<= Logo $company_template_logo
+		<= Logo $learn_testapp_logo
 	tags /
 		\logo
 	aspects /

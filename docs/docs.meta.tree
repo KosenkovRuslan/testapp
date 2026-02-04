@@ -1,4 +1,4 @@
 include \/mol/app/demo
 
-include \/company/template/logo/demo
-include \/company/template/button/demo
+include \/learn/testapp/logo/demo
+include \/learn/testapp/button/demo
